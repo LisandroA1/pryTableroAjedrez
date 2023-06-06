@@ -1,0 +1,11 @@
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\bin\Debug\pryTableroAjedrez.exe.config
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\bin\Debug\pryTableroAjedrez.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\bin\Debug\pryTableroAjedrez.pdb
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.csproj.AssemblyReference.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.Form1.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.Properties.Resources.resources
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.csproj.GenerateResource.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.exe
+C:\Users\Terminal\OneDrive\Escritorio\pryTableroAjedrez\obj\Debug\pryTableroAjedrez.pdb
